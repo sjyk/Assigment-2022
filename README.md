@@ -2,10 +2,14 @@
 Template for Assignment
 
 # Set-Up
-Follow the set-up guide: Setup.md before starting the assigment. We will be tracking the progress in your notebook
+Follow the set-up guide: Setup.md before starting the assigment. We will be tracking the progress in your notebook.
+
+We will be using your code in this assigment 
 
 # Dataset
-The task that you will complete is 
+**TODO**
+# Task
+The task that you will complete is the first task evaluated in the DEBS 2018 Grand Challenge using this dataset. The description of this challenge is as follows:
 
 Predicting the correct destination of a vessel is a relevant problem for a wide range of stakeholders including port authorities, vessel operators and many more. The prediction problem is to generate a continuous stream of predictions for the destination port of any vessel given the following information: (1) unique ID of the ship, (2) actual position of the ship, (3) name of the port of departure, (4) time stamp, and (5) vessel’s draught. The above data is provided as a continuous stream of tuples and the goal of the system is to provide for every input tuple one output tuple containing the name of the destination port. A solution is considered correct at time stamp T if for a tuple with this timestamp as well as for all subsequent tuples the predicted destination port matches the actual destination port. The goal of any solution is not only to predict a correct destination port but also to predict it as soon as possible counting from the moment when a new port of origin appears for a given vessel. After port departure and until arrival, the solution must emit one prediction per position update.
 
