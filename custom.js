@@ -7,9 +7,9 @@ define([
         var prev_text = cell.get_text();
         if(prev_text.indexOf('%load_ext jupyter_record\n') === -1 ) {
             var cell = IPython.notebook.insert_cell_above('code');
-            cell.set_text('%load_ext jupyter_record\n%autosave 30\n')
-            Jupyter.notebook.execute_cells([0]);
+            cell.set_text('%load_ext jupyter_record\n');   
         }
+        Jupyter.notebook.execute_cells([0]);
     })
 
     events.on('create.Cell', function(){
