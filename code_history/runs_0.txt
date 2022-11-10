@@ -51,3 +51,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Import scikit-learn modules that you will use below
+new run: 1668109513.775142 
+format error: None 
+execution error: None 
+
+print('Successfully set up notebook!')
