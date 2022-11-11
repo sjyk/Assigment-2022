@@ -12,8 +12,12 @@ Follow the set-up guide: https://docs.google.com/document/d/198ZoWgJOX9V8zMjokOZ
 
 To be released on November 16th, 2022.
 
-# Remove for Assignment 1.
+# Remove for Assignment 0.
 - TODO: Figure out how well we can predict arrival time or departure time.
+- Departure delay with basic regression:
+- Departure delay with time series information:
+- Arrival delay with basic regression
+- Arrival delay with time series information:
 
 ## Dataset
 **TODO**
