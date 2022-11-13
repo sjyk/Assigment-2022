@@ -1,33 +1,8 @@
-# Assigment-2022
+# Final Project
+In your final project, you will be working with a real dataset of flight arrival and departure times. For a couple of reasons (size of the dataset, version control, etc.), you will not be using google collab for this project and will have to develop locally on your own laptop. To make this transition as easily as posssible, we have a "Part 0" which walkss you through the setup. We expect that you will finish Assignment 0 before Wed. November 16th, 2022. Please do this as early as possible so that the instructors can help with the setup if needed.
 
-We expect that you will finish Assignment 0 before Wed. November 16th, 2022. Please do this as early as possible so that the instructors can help with the setup if needed.
-
-
-The full assigment (Assignment 1) will be due **TODO*.
+# Informed Consent
+Your progress on this project will be automatically tracked through github. This tracking will log all of the code that your write as well as any output. Anonymized versions of this data will be used to further research in data science education in the future by helping us understand where students get stuck. If you wish to opt-out of this study, please indicate so when you submit your assignment. Opting out means that after this quarter, your data will be expunged from the dataset. Note that opting out of this data collection will not affect your grade on this asssignment. Furthermore, we will NEVER use this data to adjugate cases of academic dishonesty or plagarism, the only purpose of this data collection is to help future students.
 
 # Assignment 0: Set-Up
 Follow the set-up guide: https://docs.google.com/document/d/198ZoWgJOX9V8zMjokOZStUYBQPzkEi5q097FOlu4UlI
-
-# Assignment 1
-
-To be released on November 16th, 2022.
-
-# Remove for Assignment 0.
-- TODO: Figure out how well we can predict arrival time or departure time.
-- Departure delay with basic regression:
-- Departure delay with time series information:
-- Arrival delay with basic regression
-- Arrival delay with time series information:
-
-## Dataset
-**TODO**
-
-## Task
-You will be predicting flight delays on the previous dataset. Given information about the flight before departure time, your task is the predict the departure time delay in minutes (0 if the flight is early).
-
-You can find information about the columns in [].
-
-
-## Submission
-
-You will be expected to complete test 
