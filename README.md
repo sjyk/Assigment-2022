@@ -6,3 +6,6 @@ Your progress on this project will be automatically tracked through github. This
 
 # Part 1
 Follow the set-up guide: https://docs.google.com/document/d/1wIgWVOh2uk_eqy4mxgVsjHm_h4424WJpILYkbkkDrBQ/edit?usp=sharing
+
+# Part 2
+For your final assignment, we are going to be working with a real-world messy dataset to predict flight delays. You will be asked to predict whether a domestic USA flight will be delayed or not, based on information before the flight departure. This assignment gives you a chance to work through a full open-ended data science project; we have only given initial raw features, and it is your responsibility to turn those features into a prediction model. You can find the assignment in your Github (?). Detailed instructions are provided in the ‘Flight_Delay_Prediction.ipynb’ file. We expect you to fill out that notebook, as well as submit a final ‘.csv’ file with prediction results.
