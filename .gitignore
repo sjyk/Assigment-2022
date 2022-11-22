@@ -1,5 +1,8 @@
 # Data files
 ./data/**
+**/training.csv
+**/testing_X.csv
+**/*_final_assignment.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
